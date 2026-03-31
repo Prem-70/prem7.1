@@ -1,1 +1,2 @@
 this is demo for notepad use in projects.
+new msg added finally
